@@ -1,0 +1,7 @@
+{
+  "name": "pretty_chitty",
+  "private": true,
+  "dependencies": {
+    "signature_pad": "^2.2.0"
+  }
+}
